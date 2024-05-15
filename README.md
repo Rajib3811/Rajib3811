@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajibul Islam</h1>
-<h3 align="center">A passionate Full Stack Developer developer from West Bengal,India</h3>
+<h3 align="center">A passionate Full Stack Developer from West Bengal,India</h3>
 
-- 🔭 I’m currently working on a 3D based project **Immersive College Experience**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rajib3811.github.io/)
 
