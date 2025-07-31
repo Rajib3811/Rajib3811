@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **rajibsbsbb333@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kPp-r1vtdxC505P_olmJ8CPmBp9qD8MO/view](https://drive.google.com/file/d/1kPp-r1vtdxC505P_olmJ8CPmBp9qD8MO/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AmWmRd0WvYuEKs6Hk67jRDPcZ7-Y8tMO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
